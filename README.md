@@ -7,4 +7,7 @@
 
 ## Compile the source or downloads the release
 
+[Other Source from christophcharles updated here ➤] (https://github.com/christophcharles/GenericBrightness)
+
+
 
